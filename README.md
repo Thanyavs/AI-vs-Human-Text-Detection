@@ -1,3 +1,4 @@
+# AI vs Human Text Detection
 This project uses Natural Language Processing (NLP) and Machine Learning to classify text as AI-generated or human-written.
 
 🚀 Features
